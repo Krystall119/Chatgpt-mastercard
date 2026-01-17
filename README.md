@@ -18,15 +18,15 @@
 
 ## 注册主界面
 
-<img width="575" height="813" alt="zuce" src="https://github.com/user-attachments/assets/1540895f-0472-48d3-a2bd-541992ebe842" />
+<img width="575" height="813" alt="zuce" src="https://github.com/user-attachments/assets/765f67ec-e930-4966-9dcd-c70c11bb9481" />
 
-<img width="2825" height="1511" alt="1" src="https://github.com/user-attachments/assets/f0324590-717f-44e9-a627-d756ec1cb0e3" />
+<img width="2825" height="1511" alt="1" src="https://github.com/user-attachments/assets/646f5c8e-e444-410d-b963-20e766e29bb3" />
 
 [注册PFC入口](https://payforcard.com/auth?invite=INV7309B065)
 
 ## 主要卡号和用途选择
 
-<img width="2802" height="1519" alt="2" src="https://github.com/user-attachments/assets/ba12e02c-1e99-429e-821c-f038bb55e86f" />
+<img width="2802" height="1519" alt="2" src="https://github.com/user-attachments/assets/67aa0c6c-d7c5-4abc-a40f-e082bf63951d" />
 
 ## 平台什么时候建立的
 
